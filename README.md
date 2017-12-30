@@ -93,7 +93,7 @@ mpirun -np 2 hello_c  #2为双核
 ```
 
 ##  三、编译VASP
-### 1. 需要的安装包（[我的GitHub](https://github.com/LiuGaoyong/VASP-src)）
+### 1. 需要的安装包（[我的GitHub](https://github.com/LiuGaoyong/VASP-Compile)）
 
 ### 2. 安装步骤：
 - 测试环境变量
