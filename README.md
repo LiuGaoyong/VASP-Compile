@@ -1,20 +1,10 @@
 # VASP-5.4.1 的安装（基于Ubuntu 16.04编译环境）
-
-```
-graph LR
-A[Intel编译器]-->B[OpenMPI]
-B-->C[VASP]
-C-->|1| D1[修改整理源代码]
-C-->|2| D2[修改makefile.include]
-C-->|3| D3[make all]
-```
-
 ---
 
 
 
 ##  一、Intel_parallel_studio_xe
-### 1. 需要的安装包 ==推荐`IPS2015`==
+### 1. 需要的安装包 （推荐`IPS2015`）
 
 软件版本| 百度云链接 | 密码
 ---     |---| ---
